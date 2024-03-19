@@ -1,2 +1,7 @@
 Base de dados UCI Machine Learning Repository
 http://archive.ics.uci.edu/
+
+
+
+AVALIAÇÃO DE ALGORITMOS
+ter etapas de treinamentos e tests

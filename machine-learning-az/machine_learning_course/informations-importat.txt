@@ -4,4 +4,4 @@ http://archive.ics.uci.edu/
 
 
 AVALIAÇÃO DE ALGORITMOS
-ter etapas de treinamentos e tests
+ter etapas de treinamentos e testes
